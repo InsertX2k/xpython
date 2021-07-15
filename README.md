@@ -34,5 +34,17 @@ x.get_disps()
 
 <br>
 
+### Note : <br>
+
+Supported file extentions for the XPy or XPython framework are `.x` or `.py` or `.pyw` or `.xw`, **Choose whatever you want.**, but the `.x` and `.xw` are the standard extensions of this **Framework.** <br>
+
+<br>
+
+`.py` - Stands for a **Python** source file **(Console Window)** <br>
+`.pyw` - Stands for a **Python** source file **(No Console Window is shown)** <br>
+`.x` - Stands for an **XPython** source file, Can be used too for **Python** Source Files. <br>
+`.xw` - Stands for an **XPython** source file, Can be used too for **Python** Source Files. **(No Console Window is shown)**
+
+<br>
 
 **-Insert - 2021**
